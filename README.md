@@ -16,6 +16,7 @@ Trillium Kit is a cutting-edge machine learning (ML) library built on the ZIG pr
 - **Efficient Edge Optimization**: Focus on optimizing computational processes for edge devices to ensure rapid and efficient on-device performance.
 - **Broad Hardware Support**: Ensure compatibility with a wide array of hardware, encouraging inclusivity and fair competition across different devices.
 - **Built-in C Library Integration**: Incorporate C-based ML libraries within the build, eliminating external library dependencies and simplifying the development process.
+- **Easy to Use**: Simplifies the development process by leveraging the straightforward and modern syntax of ZIG, making it easier for developers to implement and utilize ML algorithms.
 
 ## Getting Started
 
