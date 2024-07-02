@@ -1,6 +1,6 @@
 # Trillium Kit
 
-Trillium Kit is a cutting-edge machine learning (ML) library built on ZIG, a programming language known for its performance, safety, and minimal runtime dependencies. Designed to harness the performance advantages of C-based ML libraries while enhancing productivity in implementing various ML algorithms, Trillium Kit aims to create a versatile and efficient software stack.
+Trillium Kit is a cutting-edge machine learning (ML) library built on ZIG, a programming language known for its performance, safety, and minimal runtime dependencies. Designed to harness the performance advantages of C-based ML libraries while enhancing productivity in implementing various ML algorithms through the use of ZIG, Trillium Kit aims to create a versatile and efficient software stack.
 
 ## Key Objectives
 
