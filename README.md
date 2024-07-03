@@ -4,7 +4,7 @@ Trillium Kit is a cutting-edge machine learning (ML) library built on ZIG, a pro
 
 ## Key Objectives
 
-- **Hardware Agnosticism**: Reduce dependency on specific GPU hardware, fostering a competitive and fair environment for diverse hardware.
+- **Hardware Agnostic**: Reduce dependency on specific GPU hardware, fostering a competitive and fair environment for diverse hardware.
 - **Edge Performance**: Optimize computation speeds to ensure AI models perform efficiently in edge environments, enabling rapid on-device execution.
 - **Variety of ML Algorithms**: Offer a diverse set of ML algorithms to suit various needs and use cases.
 - **Modular Workflow**: Provide a suite of ML algorithms implemented in ZIG, allowing developers to construct custom ML workflows through combinable building blocks.
